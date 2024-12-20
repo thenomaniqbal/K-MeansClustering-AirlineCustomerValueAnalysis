@@ -62,9 +62,9 @@ This project aims to analyze customer value within the airline industry using K-
 
 ## 
  <a href="https://github.com/thenomaniqbal/K-MeansClustering-AirlineCustomerValueAnalysis/">
-    <img src="images/image1.PNG" width="100%" height="100%"> 
-    <img src="images/image2.PNG" width="100%" height="100%"> 
-    <img src="images/image3.PNG" width="100%" height="100%"> 
+    <img src="Images/image1.PNG" width="100%" height="100%"> 
+    <img src="Images/image2.PNG" width="100%" height="100%"> 
+    <img src="Images/image3.PNG" width="100%" height="100%"> 
   </a>
 
 ---
