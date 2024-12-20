@@ -59,6 +59,14 @@ This project aims to analyze customer value within the airline industry using K-
    - Run the preprocessing script to clean and prepare the data.
    - Execute the K-means clustering model script to perform segmentation.
    - Visualize results using the provided plotting scripts.
+
+## 
+ <a href="https://github.com/thenomaniqbal/K-MeansClustering-AirlineCustomerValueAnalysis/">
+    <img src="images/image1.PNG" width="100%" height="100%"> 
+    <img src="images/image2.PNG" width="100%" height="100%"> 
+    <img src="images/image3.PNG" width="100%" height="100%"> 
+  </a>
+
 ---
 
 ## P.S.  
