@@ -10,30 +10,30 @@ This project uses K-means clustering to analyze airline customer data with the g
 4.	Formulate appropriate marketing strategies for each customer segment.
 
 ## **Dataset Description**
-The dataset consists of various details about 62,988 customers of airline 'X'. The details are:
-•	member_no: Member ID
-•	ffp_date: Frequent Flyer Program Join Date
-•	first_flight_date: First Flight Date
-•	gender: Gender
-•	ffp_tier: Tier of the Frequent Flyer Program
-•	work_city: City of origin
-•	work_province: Province of origin
-•	work_country: Country of origin
-•	age: Customer's age
-•	load_time: Date the data was taken
-•	flight_count: Number of flights taken by the customer
-•	bp_sum: Travel itinerary
-•	sum_yr_1: Fare revenue
-•	sum_yr_2: Votes prices
-•	seg_km_sum: Total distance (km) flown
-•	last_flight_date: Date of the last flight
-•	last_to_end: Time span from the last flight to the latest booking
-•	avg_interval: Average time interval
-•	max_interval: Maximum time interval
-•	exchange_count: Number of exchanges
-•	avg_discount: Average discount received by the customer
-•	points_sum: Total points earned by the customer
-•	point_notflight: Points not used by the member
+The dataset consists of various details about 62,988 customers of airline 'X'. The details are:  
+•	member_no: Member ID  
+•	ffp_date: Frequent Flyer Program Join Date  
+•	first_flight_date: First Flight Date  
+•	gender: Gender  
+•	ffp_tier: Tier of the Frequent Flyer Program  
+•	work_city: City of origin  
+•	work_province: Province of origin  
+•	work_country: Country of origin  
+•	age: Customer's age  
+•	load_time: Date the data was taken  
+•	flight_count: Number of flights taken by the customer  
+•	bp_sum: Travel itinerary  
+•	sum_yr_1: Fare revenue  
+•	sum_yr_2: Votes prices  
+•	seg_km_sum: Total distance (km) flown  
+•	last_flight_date: Date of the last flight  
+•	last_to_end: Time span from the last flight to the latest booking  
+•	avg_interval: Average time interval  
+•	max_interval: Maximum time interval  
+•	exchange_count: Number of exchanges  
+•	avg_discount: Average discount received by the customer  
+•	points_sum: Total points earned by the customer  
+•	point_notflight: Points not used by the member  
 
 ## **Methodology**
 The methodology section outlines the detailed steps taken to perform the K-means clustering analysis on the airline customer data. This process involves several stages: data collection, data preprocessing, feature selection, applying K-means clustering, and evaluating the clustering results. Each stage is critical to ensure accurate and meaningful customer segmentation. 
